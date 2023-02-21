@@ -1,0 +1,44 @@
+.header{
+    display:flex;
+    flex-direction: column;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+a{
+    text-decoration: none;
+}
+.section1a{
+    display:flex;
+    justify-content: space-between;
+}
+.section1b{
+    display: flex;
+    gap: 8px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+button{
+
+    padding: 8px;
+    width: 150px;
+}
+img{
+    height: 250px;
+    width: 180px;
+}
+.section-b{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.card{
+    border: 1px solid #eee;
+    box-shadow: 2px 4px 16px rgba(0,0,0,.06);
+    border-radius: 4px;
+    height: 50px;
+}
