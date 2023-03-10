@@ -141,6 +141,7 @@ h3{
 }
 button{
     margin-left: 100px;
+    pointer-events: none;
 }
 .copyright{
     background-image: linear-gradient(to right, #D7C5AB, #8C6844);
